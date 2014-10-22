@@ -1,4 +1,4 @@
-====spring¶¨Ê±¼à²âlog4j.propertiesÅäÖÃÎÄ¼ş¸ü¸Ä====
+====springå®šæ—¶ç›‘æµ‹log4j.propertiesé…ç½®æ–‡ä»¶æ›´æ”¹====
 ----lib----
 	commons-logging-x.x.x.jar
 	log4j-x.x.x.jar
@@ -24,14 +24,14 @@
        org.springframework.web.util.Log4jConfigListener
      </listener-class>
    </listener>
-====Ê¹ÓÃspringµÄÈÕÖ¾Ïà¶ÔÂ·¾¶ÅäÖÃ====
+====ä½¿ç”¨springçš„æ—¥å¿—ç›¸å¯¹è·¯å¾„é…ç½®====
 ----log4j.properties----
 log4j.appender.log.File = ${webApp.root}/WEB-INF/logs/log.log
 
 
-====²»Ê¹ÓÃspringµÄÈÕÖ¾Ïà¶ÔÂ·¾¶ÅäÖÃ====
-----log4j.propertiesÎ»ÖÃ----
-log4j.propertiesÅäÖÃÎÄ¼ş·ÅÔÚsrcÄ¿Â¼ÏÂÃæ¡£
+====ä¸ä½¿ç”¨springçš„æ—¥å¿—ç›¸å¯¹è·¯å¾„é…ç½®====
+----log4j.propertiesä½ç½®----
+log4j.propertiesé…ç½®æ–‡ä»¶æ”¾åœ¨srcç›®å½•ä¸‹é¢ã€‚
 ----log4j.properties----
 ${catalina.home}/webapps/pay_line/logs/log.log
 	

@@ -1,5 +1,5 @@
-git log --pretty=oneline -8    ²é¿´°æ±¾¿â×´Ì¬
-git reset --hard 3628164       Ö¸¶¨»Øµ½Ä³¸ö°æ±¾
-git reflog                     ²é¿´ÃüÁî¼ÇÂ¼
+git log --pretty=oneline -8    æŸ¥çœ‹ç‰ˆæœ¬åº“çŠ¶æ€
+git reset --hard 3628164       æŒ‡å®šå›åˆ°æŸä¸ªç‰ˆæœ¬
+git reflog                     æŸ¥çœ‹å‘½ä»¤è®°å½•
 
-git commit --amend             ĞŞ¸Ä×îºóÒ»´ÎÌá½»µÄĞÅÏ¢
+git commit --amend             ä¿®æ”¹æœ€åä¸€æ¬¡æäº¤çš„ä¿¡æ¯
