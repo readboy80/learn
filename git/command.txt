@@ -1,0 +1,3 @@
+git log 查看版本库状态
+git reset --hard 3628164 指定回到某个版本
+git reflog 查看命令记录
