@@ -1,2 +1,3 @@
 html,body{ margin:0px; height:100%; }
-设置html{overflow:hidden;}来隐藏掉。或者设置html{overflow:sroll;}所有浏览器显示滚动条。      
+设置html{overflow:hidden;}来隐藏掉。或者设置html{overflow:sroll;}所有浏览器显示滚动条。     
+测试下提交中文会不会出现乱码 
